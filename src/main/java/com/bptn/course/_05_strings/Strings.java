@@ -12,6 +12,7 @@ public class Strings {
         String message1 = "This is a test";
 
         //To pass the test case let us assume the food will be "Pizza"
+		//practicing fetching
 
         // Run to see the silly poem!
         System.out.println("Roses are " + color1);
