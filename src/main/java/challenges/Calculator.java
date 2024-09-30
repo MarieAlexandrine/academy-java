@@ -7,7 +7,7 @@ public class Calculator {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in); //scanner object to take input from the user
 		char choice = 0;
-		do { // the do-while loop ensures the program runs at least once and repeats  until user inputs an invalid operation or wishes not to continue.
+		do {// the do-while loop ensures the program runs at least once and repeats  until user inputs an invalid operation or wishes not to continue.
 			System.out.println("Choose from the following Calculator menu: ");//displays the calculator menu
 			System.out.println("Press 1 for addition");
 			System.out.println("Press 2 for substraction");
