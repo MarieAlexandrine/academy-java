@@ -1,4 +1,4 @@
-package week3;
+package com.bptn.course._week3;
 
 public class Generics {
 

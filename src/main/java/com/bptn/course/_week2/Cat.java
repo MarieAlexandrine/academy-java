@@ -1,4 +1,4 @@
-package week2;
+package com.bptn.course._week2;
 
 class Cat extends Pet{
 	public Cat(String name) {

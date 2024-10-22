@@ -1,4 +1,4 @@
-package week2;
+package com.bptn.course._week2;
 
 public class Triangle {
 	public int perimeterCalculator(int a, int b, int c) {

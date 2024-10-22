@@ -1,4 +1,4 @@
-package week2;
+package com.bptn.course._week2;
 
 class Car extends Vehicle /*extends Vehicle*/ {
 
