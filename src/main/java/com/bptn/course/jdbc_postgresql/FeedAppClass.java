@@ -6,11 +6,11 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class FeedAppClass {
-	private static final String userName = "postgres";
-	private static final String password = "pg123";
-	private static final String dbName = "feedApp";
-	private static final String port = "5433";
-	private static final String dbUrl = "localhost";
+	private static final String userName = "";
+	private static final String password = "";
+	private static final String dbName = "";
+	private static final String port = "";
+	private static final String dbUrl = "";
 
 	public Connection createConnection() {
 		Connection conn = null;
